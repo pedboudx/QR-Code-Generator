@@ -1,0 +1,30 @@
+.hidden {
+    display: none;
+}
+* {
+    font-family: "Poppins", serif;
+    
+}
+
+h1 {
+    
+}
+
+body {
+    background-color: #383f51;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.main {
+    background-color: #dddbf1;
+    padding: 5rem;
+    align-self: center;
+    border-radius: 5rem;
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
